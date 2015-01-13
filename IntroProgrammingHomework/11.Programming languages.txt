@@ -1,0 +1,20 @@
+1- Java
+Java uses a compiler, and is an object-oriented language released in 1995. It is a well-organized language with a strong library of reusable software components.Also programs written in Java can run on many different computer architectures and operating systems because of the use of the JVM (Java virtual machine).
+The similarity between Java and C# is that both are object-riented and class based.Both of the languages use garbage collection, have Unicode support and in both all objects are references.
+The main difference is that Java can be run on any operating system, while C# typically requires Windows and .Net framework.
+2- C
+C is a compiled, procedural language developed in 1972 by Dennis Ritchie for use in the UNIX operating system.C is a relatively old language, it is still widely used for system programming, writing other programming languages, and in embedded systems.The strenght of "C" the speed of work.
+The similarity between C# and C is that both of the languages use similiar syntax.
+C# and C have some differences one of which is that C# have much simpler syntax. Another one is that C is not objective-oriented language.
+3- C++
+C++ is a compiled, multi-paradigm language written as an update to C in 1979 by Bjarne Stroustrup, it brings object-orientation, which helps in larger projects.Despite it's age, C++ is used to create a wide array of applications from games to office suites.
+C++ is similar to C# because both languages are object oriented, aslo the syntax of C++ is very similar to C#.
+Applications built in C# may not perform as well when compared with C++.C# has an intrusive garbage collector, reference tracking and other overheads with some of the framework services.
+4- PHP
+PHP uses a run-time interpreter, and is a multi-paradigm language originally developed in 1996 by Rasmus Lerdorf to create dynamic web pages.It is fully featured object-oriented programming language.PHP is the most popular language used to write web applications.
+PHP is similar to C# because it is object-orientet language.
+The major  differences between PHP and C# is that PHP is a dynamic and interpreted while C# is static and needs to be compiled.
+5- VB
+VB (Visual Basic) is an interpreted, multi-paradigm language developed by Microsoft Corporation for the Windows platform.Visual Basic is a good language for scripting Windows applications that do not need the power and speed of C#.
+Both languages reference the same Base Classes of the .Net Framework to extend their functionality.
+C# and Visual Basic are syntactically very different, also there are differences in the programming constructs.

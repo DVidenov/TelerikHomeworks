@@ -1,0 +1,4 @@
+.Net Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows.
+It includes a large class library known as Framework Class Library (FCL).
+Programs written for .Net Framework execute in a software enviroment, known as Common language Runtime (CLR).
+C# is just one of the languages supported by .Net Framework.
