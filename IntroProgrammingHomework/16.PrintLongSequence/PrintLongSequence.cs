@@ -8,19 +8,16 @@ class PrintLongSequence
         {
             if (i % 2 == 0)
             {
-                Console.WriteLine(i + ",");
+                Console.WriteLine(i);
+                Console.Write(",");
             }
             else
             {
+                if (1 < 1000)
                 Console.WriteLine(-i);
-                if (i < 1000)
-                {
-                    Console.WriteLine(",");
-                }
+                Console.Write(",");
             }
         }
-        Console.WriteLine();
-
     }
 
 }
